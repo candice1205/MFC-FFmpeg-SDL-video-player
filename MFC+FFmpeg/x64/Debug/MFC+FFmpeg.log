@@ -1,0 +1,14 @@
+﻿  MFC+FFmpegDlg.cpp
+c:\users\user\source\repos\mfc+ffmpeg\opencv-3.2\opencv\build\include\opencv2\core\mat.hpp(2585): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\source\repos\mfc+ffmpeg\opencv-3.2\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\source\repos\mfc+ffmpeg\opencv-3.2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\source\repos\mfc+ffmpeg\opencv-3.2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\source\repos\mfc+ffmpeg\opencv-3.2\opencv\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\source\repos\mfc+ffmpeg\opencv-3.2\opencv\build\include\opencv2\imgproc.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\source\repos\mfc+ffmpeg\opencv-3.2\opencv\build\include\opencv2\imgproc.hpp(591): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\source\repos\mfc+ffmpeg\opencv-3.2\opencv\build\include\opencv2\stitching\detail\motion_estimators.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\source\repos\mfc+ffmpeg\opencv-3.2\opencv\build\include\opencv2\video\tracking.hpp(531): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\source\repos\mfc+ffmpeg\ffmpeg-n4.3.2-163-g6c414cf8f7-win64-lgpl-shared-4.3\include\libavutil\rational.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\source\repos\mfc+ffmpeg\mfc+ffmpeg\mfc+ffmpegdlg.cpp(262): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\mfc+ffmpeg\mfc+ffmpeg\mfc+ffmpegdlg.cpp(221): warning C4101: 'ptsVideo': 未參考的區域變數
+  MFC+FFmpeg.vcxproj -> C:\Users\USER\source\repos\MFC+FFmpeg\x64\Debug\MFC+FFmpeg.exe
